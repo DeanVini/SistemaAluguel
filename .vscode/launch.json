@@ -1,0 +1,109 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch CreateRent",
+            "request": "launch",
+            "mainClass": "Rent.CreateRent",
+            "projectName": "projeto_29c33b4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateMaritime",
+            "request": "launch",
+            "mainClass": "Vehicle.Maritime.CreateMaritime",
+            "projectName": "projeto_29c33b4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateLand",
+            "request": "launch",
+            "mainClass": "Vehicle.Land.CreateLand",
+            "projectName": "projeto_29c33b4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateAir",
+            "request": "launch",
+            "mainClass": "Vehicle.Air.CreateAir",
+            "projectName": "projeto_29c33b4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchVehicle",
+            "request": "launch",
+            "mainClass": "Vehicle.SearchVehicle",
+            "projectName": "projeto_29c33b4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch HomeVehicle",
+            "request": "launch",
+            "mainClass": "Vehicle.HomeVehicle",
+            "projectName": "projeto_29c33b4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchEmployee",
+            "request": "launch",
+            "mainClass": "Employee.SearchEmployee",
+            "projectName": "projeto_29c33b4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchClient",
+            "request": "launch",
+            "mainClass": "Client.SearchClient",
+            "projectName": "projeto_29c33b4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListClient",
+            "request": "launch",
+            "mainClass": "Client.ListClient",
+            "projectName": "projeto_29c33b4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateEmployee",
+            "request": "launch",
+            "mainClass": "Employee.CreateEmployee",
+            "projectName": "projeto_29c33b4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch HomeClient",
+            "request": "launch",
+            "mainClass": "Client.HomeClient",
+            "projectName": "projeto_29c33b4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Home",
+            "request": "launch",
+            "mainClass": "Home",
+            "projectName": "projeto_29c33b4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch List",
+            "request": "launch",
+            "mainClass": "Client.List",
+            "projectName": "projeto_29c33b4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Create",
+            "request": "launch",
+            "mainClass": "Client.Create",
+            "projectName": "projeto_29c33b4c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "projeto_29c33b4c"
+        }
+    ]
+}

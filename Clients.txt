@@ -1,0 +1,7 @@
+Adailton;19;adailton@gmail.com;123.123.121-22;A
+Carlos;18;adailton1@gmail.com;111.111.111-11;A
+Sophis;20;sophis@gmail.com;112.111.211-12;B
+Joao Filipe;19;jao@gmail.com;111.222.333-44;E
+Dean;23;de@an.com;123.144.414-44;C
+dsad;19;adasdas@gmm.com;231.241.241-24;A
+Pedro;18;deanvini@gmail.com;032.318.223-18;B
